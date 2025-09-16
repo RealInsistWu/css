@@ -93,7 +93,8 @@ ol li {
   margin-bottom:10px;
 }
 ol.contents li{
-  font-size: 45px;
+  font-size: 60px;
+  line-height: 1.5;
 }
 /*无序列表*/
 ul {
